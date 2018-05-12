@@ -1,0 +1,36 @@
+_repo: The-Courage-of-Marge-O-Doone_17745
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ralph, Lester
+    gutenberg_agent_id: '4488'
+    url: http://www.gutenberg.org/2009/agents/4488
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: Many of James Oliver Curwood's action-adventure novels follow intrepid
+  explorers who are equal parts foolish and brave as they make their way in the wilds
+  of northern Canada. In The Courage of Marge O'Doone, a chance encounter on a train
+  turns into the adventure of a lifetime for two audacious souls. Will the pair be
+  able to make it back alive?
+gutenberg_issued: '2006-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Courage of Marge O'Doone
+url: http://www.gutenberg.org/ebooks/17745
